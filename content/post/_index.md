@@ -8,7 +8,7 @@ title: Posts
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:header
-  caption: "caption"
-  image: "IMG_2847.jpg"
+header:
+  caption: ""
+  image: ""
 ---
