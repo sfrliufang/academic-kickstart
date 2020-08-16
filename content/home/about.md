@@ -10,5 +10,6 @@ title = "About"
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
-author = "admin"
+
+Our reserach aims to develop scalable and controllable processes to produce low dimensional materials and their artificial structures, and unravel their static and dynamical electronic, magnetic and photonic properties to provide novel platforms for next-generation information processing, light processing, and quantum devices. 
 +++
