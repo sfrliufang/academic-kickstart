@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "News"
+title = "Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,13 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Lab Renovation start"
-  company = "Room 154, 164 prep labs"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
-  location = ""
-  date_start = "2020-8"
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
   description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
