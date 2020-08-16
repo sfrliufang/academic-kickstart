@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The 2D quantum confinement for atomically thin monolayers is manifested in a variety of distinct properties that differ from their bulk counterparts. Heterostructures constructed from vertically stacking two monolayers initiates new phenomena beyond single monolayers. We aim to probe dynamics in these systems with time, energy, and momentum information from various pump probe techniques.
+The 2D quantum confinement for atomically thin monolayers has a variety of distinct properties. Artificial structures constructed from monolayers initiates new phenomena beyond single monolayers. We aim to probe dynamics in these systems with time, energy, and momentum information from various pump probe techniques.
