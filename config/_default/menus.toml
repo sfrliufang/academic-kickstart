@@ -4,10 +4,16 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "Fang Liu group"
+  url = "#about"
+  weight = 5
+ 
+ [[main]]
+  name = "About us"
   url = "#about"
   weight = 10
-  
+ 
+ 
 [[main]]
   name = "News"
   url = "#posts"
