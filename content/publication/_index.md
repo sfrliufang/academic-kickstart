@@ -9,7 +9,7 @@ title: Publications
 view: 3
 
 # Optional header image (relative to `static/media/` folder).
-header:publication1
+header:"publication1"
   caption: "publica1"
   image: "hero-academic.png"
 ---
