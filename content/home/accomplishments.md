@@ -1,8 +1,8 @@
 +++
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Research&shy;topics"
@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
+  organization = " "
   organization_url = ""
   title = "Two dimensional materials"
   url = ""
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = "Macroscopic large monolayers and artificial stacks"
 
 [[item]]
-  organization = ""
+  organization = " "
   organization_url = ""
   title = "Spectroscopy and Photoinduced dynamics"
   url = ""
