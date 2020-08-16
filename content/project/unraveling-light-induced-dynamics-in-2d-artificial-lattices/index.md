@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: "  "
 image:
-  filename: mos2_5.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
