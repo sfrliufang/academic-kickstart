@@ -8,7 +8,7 @@ title: Posts
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+header:New lab setup!
+  caption: "The new lab1"
+  image: "hero-academic.png"
 ---
