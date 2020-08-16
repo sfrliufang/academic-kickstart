@@ -4,12 +4,12 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = false  # This file represents a page section.
+active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "About us what"
-subtitle = "Welcome to the Liu group"
+title = "Academic Kickstart"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,8 +25,8 @@ subtitle = "Welcome to the Liu group"
   # color = "navy"
   
   # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
+  gradient_start = "DarkGreen"
+  gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -36,7 +36,7 @@ subtitle = "Welcome to the Liu group"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
