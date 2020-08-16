@@ -3,7 +3,7 @@ title: Light-induced dynamics in 2D artificial lattices
 date: 2020-08-16T17:58:13.166Z
 draft: false
 featured: false
-external_link: "  "
+external_link: " "
 image:
   filename: featured.png
   focal_point: Smart
