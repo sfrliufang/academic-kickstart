@@ -31,8 +31,8 @@ height = ""
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Stanford Chemistry"
   cta_url = "https://chemistry.stanford.edu/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  # cta_icon_pack = "fas"
+  # cta_icon = "graduation-cap"
 
 [[item]]
   title = "Left"
