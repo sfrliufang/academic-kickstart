@@ -1,5 +1,5 @@
 ---
-title: Unraveling light-induced dynamics in 2D artificial lattices
+title: Light-induced dynamics in 2D artificial lattices
 date: 2020-08-16T17:58:13.166Z
 draft: false
 featured: false
