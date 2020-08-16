@@ -11,6 +11,7 @@ weight = 10  # Order that this section will appear.
 # ... Put Your Section Options Here (title etc.) ...
 
 title = "About us"
+can i write something in here
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "hero-academic.png"
