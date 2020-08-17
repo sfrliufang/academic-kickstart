@@ -18,20 +18,6 @@ organizations:
   url: "https://chemistry.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-
-education:
-  courses:
-  - course: Postdoc
-    institution: Columbia University
-    year: 2016-2020
-  - course: Postdoc
-    institution: University of Pennsylvania
-    year: 2015-2016
-  - course: Ph.D in Chemistry
-    institution: University of Pennsylvania
-    year: 2010-2015
-
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -61,7 +47,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Reserachers
+- Researchers
+- Visitors
 ---
 
 Postdoc, Columbia University 2016-2020
