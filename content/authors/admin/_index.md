@@ -8,26 +8,26 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: "Bio:  Postdoc, Columbia University 2016-2020  Postdoc, University of
-  Pennsylvania 2015-2016  Ph.D in Chemistry, University of Pennsylvania
-  2015  B.S. in Chemistry, Peking University 2010"
+bio: "My research interests include two dimensional materials, spectroscopy and dynamics."
 interests:
-  - ""
+  - Two dimensional materials
+  - Pump probe spectroscopy
+  - Material synthesis
 social:
-  - link: https://scholar.google.com/citations?user=odYWw4EAAAAJ&hl=en
-    icon_pack: ai
-    icon: google-scholar
-  - link: fliu10@stanford.edu
-    icon_pack: fas
-    icon: envelope
+- icon: envelope
+  icon_pack: fas
+  link: mailto:fliu10@stanford.edu
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=odYWw4EAAAAJ&hl=en
 education:
   courses:
     - institution: Columbia University
       course: Postdoctoral fellow
-      year: ""
+      year: "2016"
     - course: Postdoctoral Researcher
       institution: University of Pennsylvania
-      year: ""
+      year: "2015"
     - course: Ph.D. Chemistry
       institution: University of Pennsylvania
       year: 2015
