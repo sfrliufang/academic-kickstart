@@ -49,6 +49,6 @@ height = ""
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "right.png"  # Image path relative to your `static/media/` folder.
+  overlay_img = "left.jpg"  # Image path relative to your `static/media/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
