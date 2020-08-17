@@ -35,7 +35,7 @@ height = ""
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Material research"
+  title = "Material chemistry"
   content = "We provide high quality cm size single crystal monolayer"
   align = "left"
 
