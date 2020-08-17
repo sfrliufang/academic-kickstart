@@ -19,7 +19,7 @@ social:
     icon: google-scholar
   - link: fliu10@stanford.edu
     icon_pack: fas
-    icon: email
+    icon: envelope
 education:
   courses:
     - institution: Columbia University
