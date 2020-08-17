@@ -1,12 +1,12 @@
 ---
-title: Unraveling light-induced dynamics in 2D artificial lattices
+title: Light-induced dynamics in low dimensional artificial lattices
 date: 2020-08-16T17:58:13.166Z
 draft: false
 featured: false
-external_link: "  "
+external_link: " "
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
-The 2D quantum confinement for atomically thin monolayers is manifested in a variety of distinct properties that differ from their bulk counterparts. Heterostructures constructed from vertically stacking two monolayers initiates new phenomena beyond single monolayers. We aim to probe dynamics in these systems with time, energy, and momentum information from various pump probe techniques.
+Artificial structures constructed from low dimensional materials initiates new phenomena beyond single monolayers. We aim to probe dynamics in these systems with time, energy, and momentum information from various pump probe techniques.
