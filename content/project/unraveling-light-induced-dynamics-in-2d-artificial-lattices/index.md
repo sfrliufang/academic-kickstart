@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Artificial structures constructed from low dimensional materials initiates new phenomena beyond single monolayers. We aim to probe dynamics in these systems with time, energy, and momentum information from various pump probe techniques.
+We aim to probe dynamics in artificial structures constructed from low dimensional materials with time, energy, and momentum information from various pump probe techniques.
