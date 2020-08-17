@@ -18,12 +18,6 @@ organizations:
   url: "https://chemistry.stanford.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Our reserach aims to develop scalable and controllable processes to produce low dimensional materials and their artificial structures, and unravel their static and dynamical electronic, magnetic and photonic properties to provide novel platforms for next-generation information processing, light processing, and quantum devices.
-
-interests:
-- Two dimensional materials
-- Optical and photoemission spectroscopy
-- Material and physical chemistry
 
 education:
   courses:
@@ -67,8 +61,12 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Principle Investigator
 ---
 
-Our reserach aims to develop scalable and controllable processes to produce low dimensional materials and their artificial structures, and unravel their static and dynamical electronic, magnetic and photonic properties to provide novel platforms for next-generation information processing, light processing, and quantum devices. We hope to provide participating students with broad interdisciplinary training across physics, chemistry, and materials science.  Such training opportunities include, among others, preparation and characterization of low dimensional materials, design and implementation of ultrahigh vacuum and spectroscopic instruments, and understanding of fundamental mechanisms underlying novel physical properties. 
+Postdoc, Columbia University 2016-2020
+Postdoc, University of Pennsylvania 2015-2016
+Ph.D in Chemistry, University of Pennsylvania 2015
+B.S. in Chemistry, Peking University 2010
+
+
