@@ -1,6 +1,6 @@
 ---
 title: Light-induced dynamics in low dimensional artificial lattices
-date: 2020-08-17T01:43:40.083Z
+date: 2020-08-17T01:44:34.531Z
 draft: false
 featured: false
 external_link: " "
