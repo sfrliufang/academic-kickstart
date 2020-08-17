@@ -8,9 +8,9 @@ superuser: true
 authors:
   - admin
 title: Fang Liu
-bio: fliu10@stanford.edu
+bio: ""
 interests:
-  - Aligning lasers. Baking pastries.
+  - fliu10@stanford.edu
 social:
   - link: https://scholar.google.com/citations?user=odYWw4EAAAAJ&hl=en
     icon_pack: ai
