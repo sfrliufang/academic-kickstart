@@ -17,7 +17,7 @@ social:
     link: https://scholar.google.com/citations?user=odYWw4EAAAAJ&hl=en
 email: fliu10@stanford.edu
 user_groups:
-  - Principal Investigator
+  - Researcher
 ---
 Postdoc, Columbia University 2016-2020
 Postdoc, University of Pennsylvania 2015-2016
