@@ -8,24 +8,27 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: "My research interests include two dimensional materials, spectroscopy and dynamics."
+bio: My research interests include two dimensional materials, spectroscopy and
+  dynamics.
 interests:
   - Two dimensional materials
   - Pump probe spectroscopy
   - Material synthesis
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:fliu10@stanford.edu
-
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:fliu10@stanford.edu
+  - link: https://scholar.google.com/citations?user=odYWw4EAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
 education:
   courses:
     - institution: Columbia University
       course: Postdoctoral fellow
-      year: "2016-2020"
+      year: 2016-2020
     - course: Postdoctoral Researcher
       institution: University of Pennsylvania
-      year: "2015-2016"
+      year: 2015-2016
     - course: Ph.D. Chemistry
       institution: University of Pennsylvania
       year: 2015
