@@ -12,7 +12,7 @@ date: '2019-05-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-17T00:50:54.067935Z'
+publishDate: '2020-08-17T01:18:05.756178Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
