@@ -19,7 +19,10 @@ social:
   link: mailto:fliu10@stanford.edu
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=odYWw4EAAAAJ&hl=en
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 education:
   courses:
     - institution: Columbia University
