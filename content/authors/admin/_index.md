@@ -27,10 +27,10 @@ education:
   courses:
     - institution: Columbia University
       course: Postdoctoral fellow
-      year: "2016"
+      year: "2016-2020"
     - course: Postdoctoral Researcher
       institution: University of Pennsylvania
-      year: "2015"
+      year: "2015-2016"
     - course: Ph.D. Chemistry
       institution: University of Pennsylvania
       year: 2015
