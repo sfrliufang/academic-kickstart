@@ -29,7 +29,7 @@ summary: ''
 
 tags: []
 categories: []
-featured: false
+featured: ture
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
