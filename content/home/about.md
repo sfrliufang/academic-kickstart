@@ -20,12 +20,9 @@ subtitle = ""
  css_class = ""
 
 +++
-Our reserach aims to develop scalable and controllable processes to produce low dimensional materials and their artificial structures, and unravel their static and dynamical electronic, magnetic and photonic properties to provide novel platforms for next-generation information processing, light processing, and quantum devices.
-interests:
+Our reserach aims to develop scalable and controllable processes to produce low dimensional materials and their artificial structures, and unravel their static and dynamical electronic, magnetic and photonic properties to provide novel platforms for next-generation information processing, light processing, and quantum devices. Our interests include:
 - Two dimensional materials
 - Optical and photoemission spectroscopy
 - Material and physical chemistry
-
-We hope to provide participating students with broad interdisciplinary training across physics, chemistry, and materials science.  Such training opportunities include, among others, preparation and characterization of low dimensional materials, design and implementation of ultrahigh vacuum and spectroscopic instruments, and understanding of fundamental mechanisms underlying novel physical properties. 
 
 Welcome to join us!
