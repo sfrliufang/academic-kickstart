@@ -7,7 +7,7 @@ superuser: true
 authors:
   - admin
 title: Fang Liu
-avatar_filename: fang_liu_photo.jpg
+avatar_filename: avatar.jpg
 social:
   - icon: twitter
     icon_pack: fab
