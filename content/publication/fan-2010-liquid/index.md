@@ -10,10 +10,10 @@ authors:
 - Fang Liu
 - Yuan Kou
 date: '2010-03-01'
-doi: ''
+doi: https://doi.org/10.1039/B926397G
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-17T01:18:55.405262Z'
+publishDate: '2020-08-17T05:20:57.067875Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -41,7 +41,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://doi.org/10.1039/B926397G
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

@@ -14,10 +14,10 @@ authors:
 - Xiaojun Wu
 - Luis Echegoyen
 date: '2019-07-01'
-doi: ''
+doi: https://doi.org/10.1021/acsami.9b09018
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-17T01:18:10.456690Z'
+publishDate: '2020-08-17T05:20:12.068532Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -45,7 +45,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://doi.org/10.1021/acsami.9b09018
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

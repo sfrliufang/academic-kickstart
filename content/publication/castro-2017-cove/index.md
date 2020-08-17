@@ -14,10 +14,10 @@ authors:
 - Colin Nuckolls
 - Luis Echegoyen
 date: '2017-09-01'
-doi: ''
+doi: https://doi.org/10.1002/anie.201706895
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-17T01:18:19.921586Z'
+publishDate: '2020-08-17T05:20:21.578509Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -45,7 +45,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://doi.org/10.1002/anie.201706895
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

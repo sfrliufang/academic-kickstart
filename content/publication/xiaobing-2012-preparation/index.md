@@ -11,10 +11,10 @@ authors:
 - Kou Yuan
 - ' others'
 date: '2012-02-01'
-doi: ''
+doi: https://doi.org/10.3724/SP.J.1088.2012.10712
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-17T01:18:50.713070Z'
+publishDate: '2020-08-17T05:20:52.385152Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,7 +42,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://doi.org/10.3724/SP.J.1088.2012.10712
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

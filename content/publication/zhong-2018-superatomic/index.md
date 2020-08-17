@@ -15,10 +15,10 @@ authors:
 - Xavier Roy
 - ' others'
 date: '2018-01-01'
-doi: ''
+doi: https://doi.org/10.1021/acs.nanolett.7b05278
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-17T01:18:12.855376Z'
+publishDate: '2020-08-17T05:20:14.498874Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -46,7 +46,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://doi.org/10.1021/acs.nanolett.7b05278
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

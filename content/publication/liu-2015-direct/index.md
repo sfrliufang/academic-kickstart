@@ -9,10 +9,10 @@ authors:
 - Ward H Thompson
 - Marsha I Lester
 date: '2015-07-01'
-doi: ''
+doi: https://doi.org/10.1039/C5CP02917A
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-17T01:18:34.113495Z'
+publishDate: '2020-08-17T05:20:35.835364Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -40,7 +40,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://doi.org/10.1039/C5CP02917A
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

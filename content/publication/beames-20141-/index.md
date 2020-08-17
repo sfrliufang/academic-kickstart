@@ -8,10 +8,10 @@ authors:
 - Fang Liu
 - Marsha I Lester
 date: '2013-09-01'
-doi: ''
+doi: https://doi.org/10.1080/00268976.2013.822592
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-17T01:18:43.609484Z'
+publishDate: '2020-08-17T05:20:45.279141Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://doi.org/10.1080/00268976.2013.822592
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
