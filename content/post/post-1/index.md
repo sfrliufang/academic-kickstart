@@ -10,4 +10,4 @@ image:
   focal_point: smart
   preview_only: false
 ---
-These are how the rooms look like when we take it over from the biology lab. Very bright and spacious. We will turn them into sample fabrication lab and laser labs soon! Welcome to the new lab!
+These are how the rooms look like when we take them over from the biology lab. Very bright and spacious. We will turn them into sample fabrication lab and laser labs soon. Welcome and come to join us!
