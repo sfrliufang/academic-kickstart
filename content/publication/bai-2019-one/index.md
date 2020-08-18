@@ -8,14 +8,21 @@ authors:
 - Jue Wang
 - Wenjing Wu
 - Leo McGilly
+- Dorri Halbertal
+- Chiu Fan Bowen Lo
 - Fang Liu
 - Jenny Ardelean
 - Pasqual Rivera
 - Nathan R Finney
+- Xu-Chen Yang
+- DN Basov
 - Wang Yao
-- ' others'
-date: '2019-12-01'
-doi: ''
+- Xiaodong Xu
+- James Hone
+- Abhay N Pasupathy
+- X-Y Zhu
+date: '2020-07-13'
+doi: 'https://www.nature.com/articles/s41563-020-0730-8'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-08-17T05:20:02.559115Z'
@@ -26,8 +33,8 @@ publishDate: '2020-08-17T05:20:02.559115Z'
 # 7 = Thesis; 8 = Patent
 publication_types:
 - 2
-publication: '*arXiv preprint arXiv:1912.06628*'
-publication_short: ''
+publication: 'Nature Materials'
+publication_short: 'Nat. Mater.'
 
 abstract: ''
 
