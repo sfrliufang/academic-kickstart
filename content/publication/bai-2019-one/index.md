@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: One-Dimensional Moiré Excitons in Transition-Metal Dichalcogenide Heterobilayers
+title: Excitons in strain-induced one-dimensional moiré potentials at transition metal dichalcogenide heterojunctions
 authors:
 - Yusong Bai
 - Lin Zhou
