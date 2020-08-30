@@ -45,7 +45,7 @@ height = ""
 
 [[item]]
   title = "Physical chemistry"
-  content = "Pomp probe laser spectroscopy"
+  content = "Pump probe laser spectroscopy"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
