@@ -4,8 +4,8 @@ role: Ph.D Student, Materials Science & Engineering
 avatar_filename: avatar.jpg
 bio: "Undergrad: Columbia University, B.A. in Physics "
 interests:
-  - "Hobbies: Soccer"
-  - "Reading.  Favorite Book: The Bluest Eye by Toni Morrison"
+  - "Hobbies: Soccer and Reading.  Favorite Book: The Bluest Eye by Toni
+    Morrison"
 social:
   - link: mailto:amalyaj@stanford.edu
     icon_pack: fas
