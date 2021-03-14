@@ -1,5 +1,5 @@
 ---
-title: Welcome Ashley Saunders and Amalya Johnson!
+title: 2021/3/12 Welcome Ashley Saunders and Amalya Johnson!
 subtitle: Now we are a team!
 date: 2021-03-14T06:15:46.210Z
 draft: false
