@@ -4,7 +4,8 @@ role: Ph.D Student, Chemistry
 avatar_filename: avatar.jpg
 bio: "Undergrad: Penn State, B.S in Chemistry.  Hometown: Fairfax, VA "
 interests:
-  - "Hobbies: Singing and Knitting.      Favorite color: Emerald green"
+  - "Hobbies: Singing and Knitting."
+  - "Favorite color: Emerald green"
 social:
   - link: mailto:aps12@stanford.edu
     icon_pack: fas
