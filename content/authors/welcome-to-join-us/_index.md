@@ -20,6 +20,10 @@ superuser: true
 user_groups:
   - Researchers
 ---
-Graduate Student, Chemistry 
+Graduate Student, Chemistry
+
+
 Undergrad: Penn State, B.S in Chemistry 
-Hometown: Fairfax, VA 
+
+
+Hometown: Fairfax, VA
