@@ -5,7 +5,7 @@ avatar_filename: avatar.jpeg
 bio: "Undergrad: Columbia University, B.A. in Physics "
 interests:
   - "Hobbies: Soccer"
-  - "Reading  Favorite Book: The Bluest Eye by Toni Morrison"
+  - "Reading.  Favorite Book: The Bluest Eye by Toni Morrison"
 email: amalyaj@stanford.edu
 superuser: true
 user_groups:
