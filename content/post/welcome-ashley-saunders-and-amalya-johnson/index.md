@@ -5,7 +5,7 @@ date: 2021-03-14T06:15:46.210Z
 draft: false
 featured: false
 image:
-  filename: group-photo.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
