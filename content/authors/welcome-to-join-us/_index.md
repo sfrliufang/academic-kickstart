@@ -1,9 +1,15 @@
 ---
-title: Welcome to join us
-role: We welcome undergraduate students, graduate students and postdocs
-avatar_filename: avatar.jpg
-superuser: false
+title: Ashley Saunders
+role: Graduate Student, Chemistry
+avatar_filename: ashley.jpg
+bio: "Undergrad: Penn State, B.S in Chemistry.  Hometown: Fairfax, VA "
+interests:
+  - "Hobbies: Singing and Knitting Favorite color: Emerald green"
+email: aps12@stanford.edu
+superuser: true
 user_groups:
   - Researchers
 ---
-If you are interested, please email me at fliu10@stanford.edu. 
+Graduate Student, Chemistry 
+Undergrad: Penn State, B.S in Chemistry 
+Hometown: Fairfax, VA 
