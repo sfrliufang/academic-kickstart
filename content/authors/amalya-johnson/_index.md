@@ -14,7 +14,7 @@ education:
   courses:
     - course: B.A. in Physics
       institution: Columbia University
-      year: 2022
+      year: 2020
 email: amalyaj@stanford.edu
 superuser: true
 user_groups:
