@@ -1,7 +1,7 @@
 ---
 title: Amalya Johnson
 role: PhD Student, Materials Science & Engineering
-avatar_filename: amalya.jpeg
+avatar_filename: avatar.jpeg
 bio: "Undergrad: Columbia University, B.A. in Physics "
 interests:
   - "Hobbies: Soccer"
