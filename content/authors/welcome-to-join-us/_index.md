@@ -1,7 +1,7 @@
 ---
 title: Ashley Saunders
 role: Graduate Student, Chemistry
-avatar_filename: ashley.jpg
+avatar_filename: avatar.jpg
 bio: "Undergrad: Penn State, B.S in Chemistry.  Hometown: Fairfax, VA "
 interests:
   - "Hobbies: Singing and Knitting Favorite color: Emerald green"
