@@ -10,11 +10,18 @@ social:
   - link: mailto:amalyaj@stanford.edu
     icon_pack: fas
     icon: envelope
+education:
+  courses:
+    - course: B.A. in Physics
+      institution: Columbia University
+      year: 2022
 email: amalyaj@stanford.edu
 superuser: true
 user_groups:
   - Researchers
 ---
 PhD Student, Materials Science & Engineering
+
 Undergrad: Columbia University, B.A. in Physics 
+
 Hometown: Montclair, NJ
