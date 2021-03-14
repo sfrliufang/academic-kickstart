@@ -11,9 +11,7 @@ authors:
 bio: My research interests include two dimensional materials, spectroscopy and
   dynamics.
 interests:
-  - Two dimensional materials
-  - Pump probe spectroscopy
-  - Material synthesis
+  - "Hobbies: baking and and planting. (But not very good at them)"
 social:
   - icon: envelope
     icon_pack: fas
