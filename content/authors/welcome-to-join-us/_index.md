@@ -10,6 +10,11 @@ social:
   - link: mailto:aps12@stanford.edu
     icon_pack: fas
     icon: envelope
+education:
+  courses:
+    - course: B.S. in chemistry
+      institution: Penn State University
+      year: 2024
 email: aps12@stanford.edu
 superuser: true
 user_groups:
